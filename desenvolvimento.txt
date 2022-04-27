@@ -1,0 +1,6 @@
+Sistema média do aluno
+Receber o nome de dois alunos
+Receber a média 1 dos alunos
+Receber a média 2 dos alunos
+
+Retornar isso como se fosse uma tabelinha com os nomes e com as médias.
